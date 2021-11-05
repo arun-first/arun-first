@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @arun-first
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- email me on alpha-arun@outlook.com
+
+<!---
+arun-first/arun-first is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ I am a new comer to the coding world. I know the following languages, if you need me feel free to contact me,
+ <ul><li>JAVA</li><li>C</li><li>Python</li></Frontend Web Development</li></ul>
